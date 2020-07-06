@@ -1,0 +1,30 @@
+.wide {
+  width: 100%;
+}
+th {
+    padding:15px;
+}
+td {
+}
+select {
+    border: 1px solid #aaa;
+    padding: 7px;
+    -webkit-border-radius: 3px;
+}
+input[type="submit"] {
+    -webkit-border-radius: 3px;
+}
+input[type="text"] {
+    margin: 10px auto 10px auto;
+    padding: 7px;
+    -webkit-border-radius: 3px;
+}
+.main{
+    border: solid 3px #aaa;
+    width: 100%;
+    -webkit-border-radius: 3px;
+}
+.head{
+    width: 100%;
+}
+

@@ -1,0 +1,55 @@
+a {
+    color: #2ae;
+    text-decoration: none;
+    background-color: transparent;
+}
+body {
+    background-color: #efefef;
+}
+th {
+    vertical-align: middle;
+    text-align: left;
+}
+td {
+    vertical-align: middle;
+}
+select {
+	background-color: #fcfdfe;
+    border: 1px solid #aaa;
+}
+input[type="submit"] {
+	color: #000;
+	background-color: #2ae;
+	border-color: #2ae;
+}
+input[type="text"] {
+	background-color: #fcfdfe;
+    color: #333;
+    vertical-align: middle;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
+.main{
+    border: solid 3px #aaa;
+    background-color: #fff;
+}
+.pagetitle{
+    font-weight: bold;
+    font-size: x-large;
+    display: inline;
+    float:left;
+    padding: 7px;
+}
+.action{
+    font-size: large;
+    display: inline;
+    float: right;
+    padding: 12px;
+}
+.bar{
+    height:25px;
+    background-color: #2ae;
+}
